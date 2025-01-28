@@ -35,11 +35,11 @@ Hi! I'm a passionate developer who loves to innovate, propose new ideas, and exp
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidromanl&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidromanl&layout=compact&theme=radical)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=davidromanl&theme=radical)
 
 ---
 
